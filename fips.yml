@@ -1,3 +1,9 @@
 #
 # fips-duktape
 #
+---
+exports:
+    header-dirs:
+        - code/lib
+    modules:
+        duktape:   .
