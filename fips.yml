@@ -4,6 +4,6 @@
 ---
 exports:
     header-dirs:
-        - code/lib
+        - code
     modules:
-        duktape:   .
+        duktape: code/
