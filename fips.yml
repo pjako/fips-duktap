@@ -4,6 +4,6 @@
 ---
 exports:
     header-dirs:
-        - code
+        - .
     modules:
-        duktape: code/
+        cjson: .
